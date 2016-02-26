@@ -18,11 +18,28 @@ https://github.com/elixir-lang/elixir/wiki/Talks
 
 
 
+## Open Source Slides
+  - https://github.com/miguelcoba?tab=repositories
+  - https://github.com/miguelcoba/elixir-intro
+  - http://miguel.leugim.com.mx/elixir-intro/#/8/17 (---> good and thorough, quite usable)
+
+
+
+## Cheatsheets
+  - http://blog.lucidsimple.com/2016/01/31/exunit-cheat-sheet.html
+
 ### Workshops
   - [RailsConf 2014 - Workshop - All Aboard The Elixir Express! by Chris McCord](https://www.youtube.com/watch?v=5kYmOyJjGDM)
   - [Functional Programming Principles in Elixir - Elixir Louisville - 2015/09](https://www.youtube.com/watch?v=Zee4bbsDvrA)
     - https://github.com/slogsdon/presentation-functional-programming-in-elixir
 
+  - [Elixir concepts for Go developers](https://texlution.com/post/elixir-concepts-for-golang-developers/#processes)
+
+
+Elixir Elevated (2014):
+  https://github.com/gvaughn/elixir_elevated
+  http://www.slideshare.net/GregVaughn/elixir-elevated
+  http://confreaks.tv/videos/elixirconf2014-elixir-elevated
 
 ### Ruby specific
   - [Josh Adams - Introduction to Elixir for Rubyists - Ancient City Ruby 2014](https://www.youtube.com/watch?v=rS5aeUi1sZs)
@@ -33,6 +50,11 @@ https://github.com/elixir-lang/elixir/wiki/Talks
 
   - [Elixir Conf 2014 - Keynote: Think Different by Dave Thomas](https://www.youtube.com/watch?v=5hDVftaPQwY)
 
+
+
+### Phoenix
+  - http://theerlangelist.com/article/phoenix_is_modular (great approach to learn Elixir in general)
+  - http://dev.mikamai.com/post/138675652509/phoenix-to-the-basics-and-beyond
 
 
 ### Metaprogramming
@@ -46,6 +68,9 @@ https://github.com/elixir-lang/elixir/wiki/Talks
   - [Elixir Louisville: Plug, Friend of Web Developers - Demo](https://www.youtube.com/watch?v=tfRD_e-yvOE)
 
 
+
+### Regex
+  - http://www.elixre.uk/
 
 ### HTTP
   - [HTTP and Me - 2014/08](https://www.youtube.com/watch?v=uCkptOF75II)
@@ -63,3 +88,13 @@ https://github.com/elixir-lang/elixir/wiki/Talks
   - https://github.com/exercism/xelixir/
 
   - [Elixir Etudes](https://github.com/oreillymedia/etudes-for-elixir) + http://chimera.labs.oreilly.com/books/1234000001642
+  - http://elixirschool.com/lessons/basics/documentation/
+
+  - https://github.com/StevenNunez/elixirmastery
+
+  - https://github.com/Cobenian/elixir-mastery-exercises
+
+
+
+
+https://www.reddit.com/r/elixir/comments/42r4yw/how_to_start_learning_elixir_coming_from_ruby/
