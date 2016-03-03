@@ -77,15 +77,18 @@ Elixir Elevated (2014):
 
 
 
-### Code examples
+### Code examples / Git repos
   - https://rosetta.alhur.es/compare/Ruby/Elixir/# (GREAT !!!)
   - http://rosettacode.org/wiki/Loop_over_multiple_arrays_simultaneously#Elixir
   - https://elixir-examples.github.io/
-
+  - https://github.com/seven1m/30-days-of-elixir
+  - https://github.com/Cobenian/elixir-mastery-exercises.git
+  - https://github.com/StevenNunez/elixirmastery.git
+  - https://github.com/oreillymedia/etudes-for-elixir.git
+  - https://github.com/exercism/xelixir.git
 
 
 ### Practical Exercises:
-
   - [Functional Programming Course for Elixir, modeled after the NICTA course for Haskell](https://github.com/slogsdon/elixir-nicta-course)
   - https://github.com/exercism/xelixir/
 
@@ -93,10 +96,11 @@ Elixir Elevated (2014):
   - http://elixirschool.com/lessons/basics/documentation/
 
   - https://github.com/StevenNunez/elixirmastery
-
   - https://github.com/Cobenian/elixir-mastery-exercises
 
 
 
+
+###
 
 https://www.reddit.com/r/elixir/comments/42r4yw/how_to_start_learning_elixir_coming_from_ruby/
