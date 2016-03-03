@@ -78,7 +78,9 @@ Elixir Elevated (2014):
 
 
 ### Code examples
-   http://rosettacode.org/wiki/Loop_over_multiple_arrays_simultaneously#Elixir
+  - https://rosetta.alhur.es/compare/Ruby/Elixir/# (GREAT !!!)
+  - http://rosettacode.org/wiki/Loop_over_multiple_arrays_simultaneously#Elixir
+  - https://elixir-examples.github.io/
 
 
 
