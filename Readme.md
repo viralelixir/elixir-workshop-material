@@ -49,6 +49,7 @@ Elixir Elevated (2014):
 
 
   - [Elixir Conf 2014 - Keynote: Think Different by Dave Thomas](https://www.youtube.com/watch?v=5hDVftaPQwY)
+  - [Learning Elixir as a Rubyist](http://www.slideshare.net/alexkira/learning-elixir-as-a-rubyist)
 
 
 
